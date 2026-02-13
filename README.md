@@ -88,7 +88,7 @@ A comparative analysis showed that the hybrid models consistently outperformed s
 
 This project is based on the Bachelor of Technology thesis submitted to the Bhilai Institute of Technology, Durg.
 
-**Author:** Devdeep Sarkar, Mrs. K. Subhashini Spurjeon, Subhodeep Sarkar, Niladri Ghosh, Aarushi Shrivastava..
+**Author:** Subhodeep Sarkar, Dr. K. Subhashini Spurjeon, Devdeep Sarkar, Niladri Ghosh, Aarushi Shrivastava..
 
 ---
 ## ©️ Copyright & Usage
